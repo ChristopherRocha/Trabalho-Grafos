@@ -1,0 +1,14 @@
+-------- PARTE 2 -------
+Imprimir melhor forma de representação
+Imprimir todas as arestas adjacentes a uma aresta
+Imprimir todos os vértices adjacentes a um vértice
+Imprimir todas as arestas incidentes a um vértice 
+Imprimir todos os vértices incidentes a uma aresta
+Imprimir grau de um vértice
+Determinar se dois vértices são adjacentes
+Substituir o peso de uma aresta
+Trocar dois vértices
+Realizar Busca em Largura
+Realizar Busca em Profundidade
+Implementar algoritmo de Dijkstra
+Implementar algoritmo de Floyd Warshall
